@@ -7,4 +7,5 @@ import os
 # for root, dirs, files in os.walk(path):
 #     for filename in files:
 #         print(filename)
-print('hi')
+# print('hi')
+print("ok")
